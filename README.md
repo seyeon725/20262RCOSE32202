@@ -9,3 +9,4 @@
 - OS_04 Computer system for OS
 - OS_04 interrupt trap summary
 - OS_05 Process
+- OS_06 CPU scheduling
