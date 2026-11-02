@@ -4,3 +4,4 @@
 - OS_00 Syllabus
 - OS_01 OS introduction
 - OS_02 OS history and concepts
+- OS_03 OS structure part 1
